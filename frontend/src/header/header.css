@@ -1,0 +1,10 @@
+content {
+  display: flex;
+  display: -webkit-flex;
+  display: -webkit-box;
+  display: -ms-flexbox;
+}
+
+box{
+  border-color: aqua;
+}
